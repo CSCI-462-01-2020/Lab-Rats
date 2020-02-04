@@ -2,6 +2,9 @@
 IQ Activity
 ===========
 
+What is this?
+=============
+
 IQ is a geometry puzzle game based on arranging shapes to fit correctly. Click and drag the shapes with your mouse to fit them into the square.
 
 
