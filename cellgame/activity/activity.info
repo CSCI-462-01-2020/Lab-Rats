@@ -1,0 +1,9 @@
+[Activity]
+name = Cells
+bundle_id = edu.centenary.CellManagement
+icon = cellgame.sugar
+activity_version = 4
+show_launcher = yes
+exec = sugar-activity3 activity.Activity
+summary = This game is based on the mechanisms present in gene regulatory networks
+repository = https://github.com/sugarlabs/cellgame.git
